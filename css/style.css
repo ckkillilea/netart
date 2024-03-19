@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+body {
+    background-color: cornflowerblue; 
+}
+.cute-font-regular {
+    font-family: "Cute Font", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
